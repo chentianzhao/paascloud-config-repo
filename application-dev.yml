@@ -15,8 +15,8 @@ spring:
   rabbitmq:
     host: paascloud-mq-rabbit
     port: 5672
-    username: admin
-    password: 123456
+    username: 'Bw7f/GkPY3UvuXF6sHBF5uo/A5AEhql/pJATMOQRkJkbnWvGxVlY2NLd+dEkU5asxQSeqxaoCoJEI2kJTrRxiyNffp+VhZm6/L+aVRu61smXn4yk/JJOd4nsWPW+T/K0jH32s3h2nNP9XyjNUoJ87KYQMRQrjPCWoSqewFLSk5oNMDZo4wKgIJ86c0bQoOYz/evPFGsVsGjhe2aBam8igQuxizU//EQXM5dzBZ7AQO7qfdPDpcCvUQCbGe44/5QEJ685l1/IOKx7eUylDcoBCbcJcfv2x0254wy9i/KgTOMGZi92Q/j7l0h6WE2X4zsB1GSh+AXYYHR6B6KwWaTM78x/vX6Jxt0u9v+uLxW7SlgERnBHLOnoDe0kD14GIXqxg='
+    password: 'CK3aVg7ZQTIJKHN4FS7ga3M/rmZcfw+U+ejVUJE+R1y4GAKtZkCEKbtBd8SmmKcQbxoWB8PesqgWufUeED3ZvXbhjuGZFhA3Ae8WTk7wLT7pvaZbhue72JRlc20f/YJiNHn3+78lLh1p6C8I0+O8Y47gNw9YmSLAvEjpFEalUicAIkYmgVnu2s4FRH0vkXZLXSlx9Zk0amcfRpxbuw1eCNtHYERApAXxGrlL6JD7Xvy2gwEt8/GORaUX21TnQCD1cLB4ItOOyGuLF8tX+7rliIq9g6cfk4RTDjPoKpWQD2NusjFYPPXO0xBuqfZdyRi+wZI4Wm8wFSe93DGBf9ZnFL+9ZQ6m97kdsutTqwsBAxxp/RXSuZ0wvGB4Z4t7LMZbI='
   redis:
     host: paascloud-db-redis
     password: MaliPass123!
