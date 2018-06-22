@@ -36,8 +36,8 @@ spring:
         exclusions: '*.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*'
       stat-view-servlet:
         allow:
-        login-username: root
-        login-password: MaliPass123!
+        login-username: admin
+        login-password: admin
   mail:
     host: smtp.163.com
     username: paascloudTest@163.com
