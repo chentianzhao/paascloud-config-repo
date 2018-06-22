@@ -19,7 +19,7 @@ spring:
     password: '{cipher}AQCSrQGxvm0QfnomP0fEVETI9c2JUUkc0lVwfSH6rTqUQJbrjGlpu387YTIQUvCtWm1bmm4Z/JjPyaxw45VBmU/9cZ78a+2/NGvrdc8tTtmTJzsRibyJ6ZKUIyqrtmPLSQb0YDoZLTtHrSNpEgUiR8+BASFonop5Icp/o7LyPOI9eAXR9fJnMlX8UBkfgvmopCaRSB5lVjY1EZFdX4Gl+X1uLXK5sNGI5xL2aFYadDrMJSBmbsZRZjZl7Jqd48X9QY/pZ/EXF32yki7IkC79UpS3ZZf3GrQSLuu4tZlfcICfzgAFgQwCVDocqtJQ2bzzm4QgQOfLyQR8UOPN7ljZ2uEj220uZQ6J4zq5qE8X6ld2cMATx2zD2Kj31yPuraWYzJc='
   redis:
     host: paascloud-db-redis
-    password: MaliPass123!
+    password: '{cipher}AQA5bOAl6Y49Voj6NgSHswuTGsP1UuIgcVdE6Hky12txr1RsOLRD6JpvGyuc+mLdgbYUzBQOm+lttajAdPh+Z0ziIh5PvW+96sBhyewPqxwQcBVAVcfkIIHcdMw15a+6RUdPwcvUls2YHHQdspSVHO1zcYRSOHAQt9jjthJxovkgwRpNJYYmEHaN+CneLtTjeJt6RlSS3b150IvOS448G3BUoVdfTzpKaPrKOcMX834HdJpfIPwjGge0fwBglkpkWiZPcAsmf9Wx277JOM5cTgKlDQmnTFXZLwHaal8rWWDJaDzo4Z02++pcQkDLm6UnfBPhxJoLb7qpzjt/flNN3BJbe4oPc3JBxI9kwYkWlHmt6F961mOxLxbMYSqQaojg3Vc='
     port: 6379
     timeout: 0
   datasource:
